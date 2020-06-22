@@ -14,3 +14,4 @@ for image in os.listdir(oldpath):
         fixed_img.close()
 #NB:dont save this file or any other file in the images folder that will lead to the program crashing
 #if you want to save any file othe than an image in images folder then edit the for and if loop conditions 
+#This program is written for sole use in unix based systems for using it in windows you may consider editing 
